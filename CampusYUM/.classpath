@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="AWS Library/aspectjrt.jar"/>
+	<classpathentry kind="lib" path="AWS Library/aspectjweaver.jar"/>
+	<classpathentry kind="lib" path="AWS Library/aws-java-sdk-1.7.5-javadoc.jar"/>
+	<classpathentry kind="lib" path="AWS Library/aws-java-sdk-1.7.5-sources.jar"/>
+	<classpathentry kind="lib" path="AWS Library/aws-java-sdk-1.7.5.jar"/>
+	<classpathentry kind="lib" path="AWS Library/aws-java-sdk-flow-build-tools-1.7.5.jar"/>
+	<classpathentry kind="lib" path="AWS Library/commons-codec-1.3.jar"/>
+	<classpathentry kind="lib" path="AWS Library/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="AWS Library/freemarker-2.3.18.jar"/>
+	<classpathentry kind="lib" path="AWS Library/httpclient-4.2.3.jar"/>
+	<classpathentry kind="lib" path="AWS Library/httpcore-4.2.jar"/>
+	<classpathentry kind="lib" path="AWS Library/jackson-annotations-2.1.1.jar"/>
+	<classpathentry kind="lib" path="AWS Library/jackson-core-2.1.1.jar"/>
+	<classpathentry kind="lib" path="AWS Library/jackson-databind-2.1.1.jar"/>
+	<classpathentry kind="lib" path="AWS Library/joda-time-2.2.jar"/>
+	<classpathentry kind="lib" path="AWS Library/mail-1.4.3.jar"/>
+	<classpathentry kind="lib" path="AWS Library/spring-beans-3.0.7.jar"/>
+	<classpathentry kind="lib" path="AWS Library/spring-context-3.0.7.jar"/>
+	<classpathentry kind="lib" path="AWS Library/spring-core-3.0.7.jar"/>
+	<classpathentry kind="lib" path="AWS Library/stax-1.2.0.jar"/>
+	<classpathentry kind="lib" path="AWS Library/stax-api-1.0.1.jar"/>
+	<classpathentry kind="con" path="com.amazonaws.eclipse.sdk.AWS_JAVA_SDK"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

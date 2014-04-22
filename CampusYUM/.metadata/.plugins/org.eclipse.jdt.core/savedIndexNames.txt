@@ -1,0 +1,1 @@
+INDEX VERSION 1.126+C:\Users\njiang\Dropbox\542 DataBase\CampusYUM\.metadata\.plugins\org.eclipse.jdt.core
