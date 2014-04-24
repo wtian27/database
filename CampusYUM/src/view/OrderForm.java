@@ -105,10 +105,10 @@ public class OrderForm extends JFrame {
 		panel.setBorder(new LineBorder(new Color(0, 0, 0), 2));
 
 		JLabel lblCheesePizza = new JLabel("Cheese Pizza");
-		lblCheesePizza.setFont(new Font("ËÎÌå", Font.PLAIN, 14));
+		lblCheesePizza.setFont(new Font("ï¿½ï¿½ï¿½ï¿½", Font.PLAIN, 14));
 
 		JLabel lblGompeisPizza = new JLabel("GOMPEI'S PIZZA");
-		lblGompeisPizza.setFont(new Font("ËÎÌå", Font.BOLD, 18));
+		lblGompeisPizza.setFont(new Font("ï¿½ï¿½ï¿½ï¿½", Font.BOLD, 18));
 
 		GroupLayout gl_contentPane = new GroupLayout(contentPane);
 		gl_contentPane
@@ -252,25 +252,25 @@ public class OrderForm extends JFrame {
 										.addContainerGap(22, Short.MAX_VALUE)));
 
 		JLabel lblPepporaniPizza = new JLabel("Pepporani Pizza");
-		lblPepporaniPizza.setFont(new Font("ËÎÌå", Font.PLAIN, 14));
+		lblPepporaniPizza.setFont(new Font("ï¿½ï¿½ï¿½ï¿½", Font.PLAIN, 14));
 
 		JLabel lblHawaiiPizza = new JLabel("Hawaii Pizza");
-		lblHawaiiPizza.setFont(new Font("ËÎÌå", Font.PLAIN, 14));
+		lblHawaiiPizza.setFont(new Font("ï¿½ï¿½ï¿½ï¿½", Font.PLAIN, 14));
 
 		JLabel lblShaqPizza = new JLabel("Shaq Pizza");
-		lblShaqPizza.setFont(new Font("ËÎÌå", Font.PLAIN, 14));
+		lblShaqPizza.setFont(new Font("ï¿½ï¿½ï¿½ï¿½", Font.PLAIN, 14));
 
 		JLabel lblCalzoneWithVegetables = new JLabel("Calzone with Vege");
-		lblCalzoneWithVegetables.setFont(new Font("ËÎÌå", Font.PLAIN, 14));
+		lblCalzoneWithVegetables.setFont(new Font("ï¿½ï¿½ï¿½ï¿½", Font.PLAIN, 14));
 
 		JLabel lblCalzoneWithMeat = new JLabel("Calzone with Meat");
-		lblCalzoneWithMeat.setFont(new Font("ËÎÌå", Font.PLAIN, 14));
+		lblCalzoneWithMeat.setFont(new Font("ï¿½ï¿½ï¿½ï¿½", Font.PLAIN, 14));
 
 		JLabel lblSmall = new JLabel("Small");
-		lblSmall.setFont(new Font("ËÎÌå", Font.BOLD, 15));
+		lblSmall.setFont(new Font("ï¿½ï¿½ï¿½ï¿½", Font.BOLD, 15));
 
 		JLabel lblLarge = new JLabel("Large");
-		lblLarge.setFont(new Font("ËÎÌå", Font.BOLD, 16));
+		lblLarge.setFont(new Font("ï¿½ï¿½ï¿½ï¿½", Font.BOLD, 16));
 
 		textField_ChesPizza_SM = new JTextField();
 		textField_ChesPizza_SM.setText("0");
@@ -499,7 +499,7 @@ public class OrderForm extends JFrame {
 	 * 
 	 */
 	public JTextField gettextField_HaPizza_SM() {
-		return textField_HaPizza_LG;
+		return textField_HaPizza_SM;
 	}
 
 	/**
